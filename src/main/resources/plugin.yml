@@ -1,0 +1,15 @@
+name: DevilsWrath
+version: 1.0.0
+main: com.devilswrath.plugin.DevilsWrathPlugin
+api-version: 1.21
+description: Devils Wrath - A demonic sword plugin
+author: Custom
+commands:
+  devilswrath:
+    description: Gives you the Devils Wrath sword
+    usage: /devilswrath [player]
+    permission: devilswrath.give
+permissions:
+  devilswrath.give:
+    description: Allows giving the Devils Wrath sword
+    default: op
