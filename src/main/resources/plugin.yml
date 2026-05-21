@@ -1,0 +1,12 @@
+name: DiamondLightningPlugin
+version: 1.0.0
+main: com.altarsmp.diamondsword.DiamondLightningPlugin
+api-version: 1.20
+author: AltarSMP
+description: Diamond Sword with Lightning Strike Ability
+
+commands:
+  lightningSword:
+    description: Gives you the Lightning Sword
+    usage: /lightningSword
+    permission: altarsmp.lightningsword
