@@ -1,0 +1,4 @@
+# UUID of the sword's eternal owner.
+# Leave empty on first launch — it is set automatically when
+# the owner runs /wrath for the first time.
+owner-uuid: ""
