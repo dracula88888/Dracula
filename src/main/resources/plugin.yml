@@ -1,0 +1,11 @@
+name: WrathOfThunder
+version: 1.0.0
+main: ge.thundersword.WrathOfThunder
+api-version: 1.21
+author: WrathOfThunder
+description: Diamond sword legendary passive — lightning every 4 hits, kill animation, self-immunity.
+
+commands:
+  wrath:
+    description: Get the Wrath of Thunder sword
+    usage: /wrath
